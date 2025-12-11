@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Use AppCompat theme to ensure compatibility with Toolbar/AppCompatActivity -->
+    <style name="Theme.BT01" parent="Theme.AppCompat.Light.NoActionBar" />
+</resources>
